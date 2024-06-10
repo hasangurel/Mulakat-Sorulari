@@ -577,7 +577,6 @@ destekler ve Spring tarafından sağlanan çeşitli özellikleri kullanarak uygu
 yapılandırılabilir.
 
 </details>
-</details>
 <details>
 <summary>Spring AOP?</summary>
 
