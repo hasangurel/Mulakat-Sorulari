@@ -577,16 +577,6 @@ destekler ve Spring tarafından sağlanan çeşitli özellikleri kullanarak uygu
 yapılandırılabilir.
 
 </details>
-
-<details>
-<summary>Spring Boot'ta bir veritabanı bağlantısı nasıl yapılandırılır?</summary>
-   * application.properties veya application.yml dosyasında veritabanı URL'si, kullanıcı adı ve şifresi gibi bağlantı bilgilerini belirleyerek yapılandırılır.
-   ```
-spring.datasource.url=jdbc:mysql://localhost:3306/mydb
-spring.datasource.username=root
-spring.datasource.password=secret
-
-```
 </details>
 <details>
 <summary>Spring AOP?</summary>
