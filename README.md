@@ -587,6 +587,8 @@ spring.datasource.username=root
 spring.datasource.password=secret
 
 ```
+</details>
+<details>
 <summary>Spring AOP?</summary>
 
 Aspect-oriented programming (AOP) Faydaları:
